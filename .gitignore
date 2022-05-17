@@ -11,6 +11,9 @@
 # production
 /build
 
+# 비주얼스튜디오로 작업시 생기는 폴더 제외
+/.vs
+
 # misc
 .DS_Store
 .env.local
