@@ -17,7 +17,7 @@ const Warpper = styled.div`
 function App() {
   return (
     <Warpper>
-      <Title>Hello~~</Title>
+      <Title>Hello Friend~~</Title>
     </Warpper>
   );
 }
